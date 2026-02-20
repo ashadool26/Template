@@ -1,4 +1,5 @@
-# 📁 Tmplt
+# 📁 Template
+
 
 ---
 
@@ -30,7 +31,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mnoukhej/tmplt.git
+   git clone https://github.com/ashadool26.git
 
 2. Change Directroy
    ```bash
